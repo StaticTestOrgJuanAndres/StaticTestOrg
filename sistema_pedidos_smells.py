@@ -143,3 +143,6 @@ total2 = manager.procesar_pedido(
 
 manager.reporte_general()
 manager.exportar_reporte("csv")
+
+
+print("TestJuan Andrés")
